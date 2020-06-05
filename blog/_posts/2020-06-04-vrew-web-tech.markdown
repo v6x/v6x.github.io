@@ -1,13 +1,14 @@
 ---
-layout: post
+layout: single
 title:  "Vrew의 Web 기술"
 date:   2020-06-04 19:57:22 +0900
-categories: webtech vrew
 ---
 
 안녕하세요? VoyagerX 개발자 장재화 입니다!
 
-Vrew 는 인공지능을 이용한 동영상 편집기 입니다 ([Vrew 소개)](https://www.youtube.com/watch?v=OxUxhaJ1gLI). Vrew 에는 복잡한 타임라인이 없습니다. Vrew 는 텍스트 편집의 느낌을 줍니다. 이를 통해 쉽게 자막을 달고 영상을 편집할 수 있게 해 줍니다.
+Vrew 는 인공지능을 이용한 동영상 편집기 입니다 ([Vrew 소개)](https://byline.network/2019/01/9-26/). Vrew 에는 복잡한 타임라인이 없습니다. Vrew 는 텍스트 편집의 느낌을 줍니다. 이를 통해 쉽게 자막을 달고 영상을 편집할 수 있게 해 줍니다.
+
+![vrew-screenshot](/blog/assets/images/vrew_screenshot.png)
 
 이 글에서는, Vrew 의 Client 에 사용된 Web 기술을 설명합니다. 또한 동영상 편집기로써 Vrew 가, Web 기술을 채택함으로써 해결해야 했던 도전을 몇 가지 소개하려고 합니다.
 
@@ -63,4 +64,4 @@ Web 기술의 장점은 아래와 같습니다.
 
 다음 글 부터는, 각각의 도전에 대해 조금 더 자세하게 설명하고, Vrew 가 어떻게 해당 부분을 극복하고 있는지를 다루겠습니다.
 
-> VoyagerX 에서는 Vrew 의 도전을 함께 할 개발자를 구합니다. Vrew 팀이 직면한 도전을 이미 경험하신 분은 많지 않다고 생각하기에, Web 기술에 익숙하지 않지만 C++, shader 등 좀 더 저수준의 경험을 해 보신 개발자도 환영합니다. (채용페이지 링크)
+> VoyagerX 에서는 Vrew 의 도전을 함께 할 개발자를 구합니다. Vrew 팀이 직면한 도전을 이미 경험하신 분은 많지 않다고 생각하기에, Web 기술에 익숙하지 않지만 C++, shader 등 좀 더 저수준의 경험을 해 보신 개발자도 환영합니다. [채용페이지 바로가기](https://www.notion.so/voyagerxcareer/Career-at-VoyagerX)
