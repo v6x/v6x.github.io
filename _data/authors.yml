@@ -1,0 +1,8 @@
+Jaehwa Chang:
+  name: "장재화"
+  avatar: "/assets/images/avatar_jaehwa.png"
+  bio: "개발을 합니다.  감동을 주는 무언가를 만들기 위해 매일매일 노력합니다 :)"
+  links:
+  - label: "Facebook"
+    icon: "fab fa-facebook-square"
+    url: "https://facebook.com/jaehwa.chang"
