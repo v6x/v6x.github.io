@@ -8,7 +8,7 @@ date:   2020-06-04 19:57:22 +0900
 
 Vrew 는 인공지능을 이용한 동영상 편집기 입니다 ([Vrew 소개)](https://byline.network/2019/01/9-26/). Vrew 에는 복잡한 타임라인이 없습니다. Vrew 는 텍스트 편집의 느낌을 줍니다. 이를 통해 쉽게 자막을 달고 영상을 편집할 수 있게 해 줍니다.
 
-![vrew-screenshot](/blog/assets/images/vrew_screenshot.png)
+![vrew-screenshot](assets/images/vrew_screenshot.png)
 
 이 글에서는, Vrew 의 Client 에 사용된 Web 기술을 설명합니다. 또한 동영상 편집기로써 Vrew 가, Web 기술을 채택함으로써 해결해야 했던 도전을 몇 가지 소개하려고 합니다.
 
