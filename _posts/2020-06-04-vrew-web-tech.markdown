@@ -63,5 +63,5 @@ Web 기술의 장점은 아래와 같습니다.
 
 다음 글 부터는, 각각의 도전에 대해 조금 더 자세하게 설명하고, Vrew 가 어떻게 해당 부분을 극복하고 있는지를 다루겠습니다.
 
-> VoyagerX 에서는 Vrew 의 도전을 함께 할 개발자를 모십니다. 아직 Web 기술에 익숙하지 않더라도, C++, shader 등 좀 더 저수준의 경험을 해 보신 분들도 환영합니다. [채용페이지 바로가기](https://www.notion.so/voyagerxcareer/Career-at-VoyagerX-d3c334b287494f3a81d9991c892dd582)
+> VoyagerX 에서는 Vrew 의 도전을 함께 할 개발자를 모십니다. 아직 Web 기술에 익숙하지 않더라도, C++, shader 등 좀 더 저수준의 경험을 해 보신 분들도 환영합니다. [채용페이지 바로가기](https://v6xcareer.notion.site/v6xcareer/Career-at-VoyagerX-9a267569be9d4be7b82d8089688abd91)
 
